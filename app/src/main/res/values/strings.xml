@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Grand Zeus</string>
+    <string name="image_chooser">Choose Image</string>
+    <string name="facebook_app_id">1801888546828259</string>
+    <string name="fb_login_protocol_scheme">fb1801888546828259</string>
+</resources>
